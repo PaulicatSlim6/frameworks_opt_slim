@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 SlimRoms Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Common strings -->
+    <string name="disabled">Deshabilitado</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_cancel">Cancelar</string>
+
+    <!-- Slim settings screens -->
+    <string name="navigation_settings_title">Navegación</string>
+    <string name="interface_settings_title">Interfaz</string>
+    <string name="advanced_settings">Advanzado</string>
+
+    <string name="quick_settings">Ajustes rápidos</string>
+    <string name="status_bar_icons">Iconos de la bara de estado</string>
+
+    <!-- Navigation settings -->
+    <string name="navigation_settings_options_title">Opciones de navegación</string>
+
+    <!-- App ops permissions -->
+    <string name="app_ops_permissions_allowed">Permitir</string>
+    <string name="app_ops_permissions_ignored">Ignorar</string>
+    <string name="app_ops_permissions_always_ask">Preguntar siempre</string>
+
+    <!-- Status bar -->
+    <string name="status_bar_title">Barra de estado</string>
+    <string name="status_bar_style_title">Estilo</string>
+
+    <!-- Status bar - Battery Options -->
+    <string name="battery_icon_options_title">Opciones del icono de batería</string>
+
+    <!-- Status bar - Battery Style -->
+    <string name="status_bar_battery_style_title">Estilo del estado de la batería</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
+    <string name="status_bar_battery_style_dotted_circle">Círculo punteado</string>
+    <string name="status_bar_battery_style_text">Texto</string>
+    <string name="status_bar_battery_style_hidden">Oculto</string>
+    <string name="status_bar_battery_style_icon_portrait">Icono vertical</string>
+    <string name="status_bar_battery_style_icon_landscape">Icono apaisado</string>
+
+    <!-- Status bar - Battery percentage -->
+    <string name="status_bar_battery_percentage_title">Mostrar porcentaje de batería</string>
+    <string name="status_bar_battery_percentage_dialog_title">Porcentaje de batería</string>
+    <string name="status_bar_battery_percentage_default">Oculto (por defecto)</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro del icono</string>
+    <string name="status_bar_battery_percentage_text_next">Junto al icono</string>
+
+    <!-- Navigation bar -->
+    <string name="navigation_bar">Navigation bar</string>
+    <string name="navigation_settings_category">Navigation</string>
+    <string name="navigation_bar_size_42_dp_default">42 dp (default)</string>
+    <string name="navigation_bar_size_36_dp">36 dp</string>
+    <string name="navigation_bar_size_30_dp">30 dp</string>
+    <string name="navigation_bar_size_24_dp">24 dp</string>
+    <string name="navigation_bar_size_48_dp_default">48 dp (default)</string>
+    <string name="navigation_bar_size_44_dp">44 dp</string>
+    <string name="navigation_bar_size_40_dp">40 dp</string>
+    <string name="navigation_bar_size_42_dp">42 dp</string>
+    <string name="navigation_bar_size_0_dp">0 dp (off)</string>
+    <string name="navigation_menu_right">Right</string>
+    <string name="navigation_menu_left">Left</string>
+    <string name="navigation_menu_both">Both</string>
+    <string name="navigation_menu_default_jb_behavior">Show on request (default)</string>
+    <string name="navigation_menu_never_show">Never show</string>
+    <string name="navigation_menu_always_show">Always show</string>
+    <string name="navbar_button_cat">Navigation bar buttons</string>
+    <string name="title_pref_menu_location">Menu location</string>
+    <string name="summary_pref_menu_location">Where do you want the menu buttons to appear?</string>
+    <string name="title_pref_menu_display">Menu visibility</string>
+    <string name="summary_pref_menu_display">How and when do you want the menu buttons to appear?</string>
+    <string name="navbar_enable_bar">Enable navigation bar</string>
+    <string name="navbar_enable_bar_summary">Enable the navigation bar</string>
+    <string name="navigation_bar_height_title">Navigation bar height</string>
+    <string name="navigation_bar_height_summary">Navigation bar height while in portrait.</string>
+    <string name="navigation_bar_height_landscape_title">Navigation bar height landscape</string>
+    <string name="navigation_bar_height_landscape_summary">Navigation bar height while in landscape.</string>
+    <string name="navigation_bar_width_title">Navigation bar width</string>
+    <string name="navigation_bar_width_summary">Navigation bar height if the bar is along a side.</string>
+    <string name="navbar_can_move">Show landscape</string>
+    <string name="navbar_can_move_summary">Shows navigation bar in landscape on the bottom</string>
+    <string name="navbar_style_dimen_title">Dimensions</string>
+    <string name="navbar_style_dimen_summary">Change navigation bar height</string>
+    <string name="navbar_button_title">Buttons</string>
+    <string name="navbar_button_summary">Configure the buttons to show on navigation bar</string>
+    <string name="navbar_cat">Navigation bar</string>
+    <string name="navbar_dimensions_reset_message">Reset all dimensions entries to default?</string>
+    <string name="navbar_button_style_reset_message">Reset all style entries to default?</string>
+
+    <!-- Navigation bar button style -->
+    <string name="nav_bar_button_style">Button style</string>
+    <string name="nav_bar_button_style_summary">Change navigation bar button style</string>
+    <string name="button_transparency_title">Button transparency</string>
+    <string name="navigation_bar_icon_tint_title">Button color</string>
+    <string name="nav_button_color_mode_title">Color mode</string>
+    <string name="nav_button_color_mode_dialog_title">Colorize</string>
+    <string name="nav_button_color_mode_summary">Change the navigation bar button color mode</string>
+    <string name="navigation_bar_glow_tint_title">Button glow color</string>
+    
+    <!-- Hardware keys -->
+    <string name="enable_hw_keys_title">Enable Hardware Buttons</string>
+    <string name="button_keys_title">Hardware Buttons</string>
+    <string name="keys_bindings_title">Key actions</string>
+    <string name="keys_enable_custom_title">Enable custom actions</string>
+    <string name="keys_enable_custom_summary">Enable custom hardware key actions</string>
+    <string name="keys_back_press_title">Back key</string>
+    <string name="keys_back_long_press_title">Back key (long press)</string>
+    <string name="keys_back_double_tap_title">Back key (double tap)</string>
+    <string name="keys_home_press_title">Home key</string>
+    <string name="keys_home_long_press_title">Home key (long press)</string>
+    <string name="keys_home_double_tap_title">Home key (double tap)</string>
+    <string name="keys_menu_press_title">Menu key</string>
+    <string name="keys_menu_long_press_title">Menu key (long press)</string>
+    <string name="keys_menu_double_tap_title">Menu key (double tap)</string>
+    <string name="keys_assist_press_title">Search key</string>
+    <string name="keys_assist_long_press_title">Search key (long press)</string>
+    <string name="keys_assist_double_tap_title">Search key (double tap)</string>
+    <string name="keys_app_switch_press_title">App switch key</string>
+    <string name="keys_app_switch_long_press_title">App switch key (long press)</string>
+    <string name="keys_app_switch_double_tap_title">App switch key (double tap)</string>
+    <string name="keys_camera_press_title">Camera key</string>
+    <string name="keys_camera_long_press_title">Camera key (long press)</string>
+    <string name="keys_camera_double_tap_title">Camera key (double tap)</string>
+    <string name="keys_action_normal">Normal press</string>
+    <string name="keys_action_long">Long press</string>
+    <string name="keys_action_double">Double tap</string>
+    <string name="no_home_key">You have no button assigned any more to the \"Home\" action!\n\nThis can make your device unusable!</string>
+
+    <!-- Recent panel -->
+    <string name="recent_panel_category">Panel de aplicaciones recientes</string>
+    <string name="use_slim_recents_title">Aplicaciones recientes</string>
+    <string name="show_running_tasks_title">Mostrar solo aplicaciones en ejecución</string>
+    <string name="recents_max_apps_title">Máximo de aplicaciones permitidas</string>
+    <string name="recent_panel_scale_title">Tamaño</string>
+    <string name="recent_panel_expanded_mode_title">Modo expandido</string>
+    <string name="recent_panel_expanded_mode_summary">Previsualizar los procesos recientes en modo expandido</string>
+    <string name="recent_panel_expanded_mode_auto">Automático (predeterminado)</string>
+    <string name="recent_panel_expanded_mode_always">Siempre</string>
+    <string name="recent_panel_expanded_mode_never">Nunca</string>
+    <string name="recent_panel_show_topmost_title">Mostrar aplicación en uso</string>
+    <string name="recent_panel_show_topmost_summary">Incluir la aplicación en uso en primer plano en el panel de aplicaciones recientes</string>
+    <string name="recent_panel_bg_color_title">Color del fondo</string>
+    <string name="recent_card_bg_color_title">Color de fondo de tarjetas</string>
+    <string name="recent_card_text_color_title">Color de texto de tarjetas</string>
+
+    
+    <!-- ATTENTION: RTL languages need to replace left with right -->
+    <string name="recent_panel_lefty_mode_title">Mostrar en el lado izquierdo</string>
+    <string name="recent_panel_lefty_mode_summary">Mostrar el panel de aplicaciones recientes en el lado izquierdo</string>
+
+    <!-- Clock & Date options -->
+    <string name="status_bar_clock">Reloj y fecha</string>
+    <string name="status_bar_clock_title">Estilo de fecha y hora</string>
+    <string name="clock_title_enable">Alineación</string>
+    <string name="clock_enabled">Habilitado</string>
+    <string name="clock_disabled">Deshabilitado</string>
+    <string name="clock_color_title">Color</string>
+    <string name="status_bar_clock_color_override">Usar colores personalizados</string>
+    <string name="status_bar_clock_style_reset">Restablecer color</string>
+    <string name="status_bar_show_clock_title">Mostrar el reloj y la fecha</string>
+    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_info">Formato de 24 horas habilitado</string>
+    <string name="enable_clock_weekday">Día de la semana</string>
+    <string name="enable_clock_weekday_summary">Día de la semana abreviado antes de la hora</string>
+    <string name="right_clock">Reloj en la derecha</string>
+    <string name="center_clock">Reloj en el centro</string>
+    <string name="dont_show">No mostrar</string>
+    <string name="clock_date_display">Fecha</string>
+    <string name="clock_date_display_summary">Mostrar fecha personalizada delante del reloj</string>
+    <string name="clock_date_style">Estilo de la fecha</string>
+    <string name="clock_date_position">Posición de la fecha</string>
+    <string name="clock_date_format">Formato de la fecha</string>
+    <string name="clock_date_string_edittext_title">Debe ser un formato de fecha, por ejemplo: dd/MM/yy</string>
+    <string name="clock_date_string_edittext_summary">Introduce el texto</string>
+    <string name="am_pm_clock_small">Fuente de tamaño pequeño</string>
+    <string name="am_pm_clock_normal">Fuente de tamaño normal</string>
+    <string name="clock_date_right">A la derecha de la hora</string>
+    <string name="clock_date_left">A la izquierda de la hora</string>
+    <string name="am_pm_clock_none">No mostrar</string>
+    <string name="clock_date_display_none">No mostrar</string>
+    <string name="clock_date_display_small">Fuente de tamaño pequeño</string>
+    <string name="clock_date_display_normal">Fuente de tamaño normal</string>
+    <string name="clock_date_style_normal">Normal</string>
+    <string name="clock_date_style_lowercase">Minúsculas</string>
+    <string name="clock_date_style_uppercase">Mayúsculas</string>
+    <string name="clock_date_format_custom">Formato java personalizado</string>
+    <string name="status_bar_clock_style_reset_message">¿Restablecer el color del reloj?</string>
+    
+
+    <!-- Advanced, Device specific (DeviceParts) settings  -->
+    <string name="advanced_options_settings_title">Avanzado</string>
+    <string name="device_settings_title">Ajustes específicos del dispositivo</string>
+
+</resources>
