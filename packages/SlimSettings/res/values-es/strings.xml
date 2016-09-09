@@ -61,56 +61,58 @@
     <string name="status_bar_battery_percentage_text_next">Junto al icono</string>
 
     <!-- Navigation bar -->
+    <string name="navigation_bar">Barra de navegación</string>
     <string name="navigation_bar">Navigation bar</string>
     <string name="navigation_settings_category">Navigation</string>
-    <string name="navigation_bar_size_42_dp_default">42 dp (default)</string>
+    <string name="navigation_bar_size_42_dp_default">42 dp (predeterminado)</string>
     <string name="navigation_bar_size_36_dp">36 dp</string>
     <string name="navigation_bar_size_30_dp">30 dp</string>
     <string name="navigation_bar_size_24_dp">24 dp</string>
-    <string name="navigation_bar_size_48_dp_default">48 dp (default)</string>
+    <string name="navigation_bar_size_48_dp_default">48 dp (predeterminado)</string>
     <string name="navigation_bar_size_44_dp">44 dp</string>
     <string name="navigation_bar_size_40_dp">40 dp</string>
     <string name="navigation_bar_size_42_dp">42 dp</string>
-    <string name="navigation_bar_size_0_dp">0 dp (off)</string>
-    <string name="navigation_menu_right">Right</string>
-    <string name="navigation_menu_left">Left</string>
-    <string name="navigation_menu_both">Both</string>
-    <string name="navigation_menu_default_jb_behavior">Show on request (default)</string>
-    <string name="navigation_menu_never_show">Never show</string>
-    <string name="navigation_menu_always_show">Always show</string>
-    <string name="navbar_button_cat">Navigation bar buttons</string>
-    <string name="title_pref_menu_location">Menu location</string>
-    <string name="summary_pref_menu_location">Where do you want the menu buttons to appear?</string>
-    <string name="title_pref_menu_display">Menu visibility</string>
-    <string name="summary_pref_menu_display">How and when do you want the menu buttons to appear?</string>
-    <string name="navbar_enable_bar">Enable navigation bar</string>
-    <string name="navbar_enable_bar_summary">Enable the navigation bar</string>
-    <string name="navigation_bar_height_title">Navigation bar height</string>
-    <string name="navigation_bar_height_summary">Navigation bar height while in portrait.</string>
-    <string name="navigation_bar_height_landscape_title">Navigation bar height landscape</string>
-    <string name="navigation_bar_height_landscape_summary">Navigation bar height while in landscape.</string>
-    <string name="navigation_bar_width_title">Navigation bar width</string>
-    <string name="navigation_bar_width_summary">Navigation bar height if the bar is along a side.</string>
-    <string name="navbar_can_move">Show landscape</string>
-    <string name="navbar_can_move_summary">Shows navigation bar in landscape on the bottom</string>
-    <string name="navbar_style_dimen_title">Dimensions</string>
-    <string name="navbar_style_dimen_summary">Change navigation bar height</string>
-    <string name="navbar_button_title">Buttons</string>
-    <string name="navbar_button_summary">Configure the buttons to show on navigation bar</string>
-    <string name="navbar_cat">Navigation bar</string>
-    <string name="navbar_dimensions_reset_message">Reset all dimensions entries to default?</string>
-    <string name="navbar_button_style_reset_message">Reset all style entries to default?</string>
+    <string name="navigation_bar_size_0_dp">0 dp (deshabilitado)</string>
+    <string name="navigation_menu_right">Derecha</string>
+    <string name="navigation_menu_left">Izquierda</string>
+    <string name="navigation_menu_both">Ambos</string>
+    <string name="navigation_menu_default_jb_behavior">Mostrar bajo petición (predeterminado)</string>
+    <string name="navigation_menu_never_show">No mostrar nunca</string>
+    <string name="navigation_menu_always_show">Mostrar siempre</string>
+    <string name="navbar_button_cat">Botones de la barra de navegación</string>
+    <string name="title_pref_menu_location">Posición del menú</string>
+    <string name="summary_pref_menu_location">¿Dónde mostrar los botones de menú?</string>
+    <string name="title_pref_menu_display">Visibilidad del menú</string>
+    <string name="summary_pref_menu_display">¿Cómo y cuándo deben aparecer los botones de menú?</string>
+    <string name="navbar_enable_bar">Barra de navegación activa</string>
+    <string name="navbar_enable_bar_summary">Activar la barra de navegación</string>
+    <string name="navigation_bar_height_title">Altura de la barra de navegación</string>
+    <string name="navigation_bar_height_summary">Altura de la barra de navegación en modo vertical.</string>
+    <string name="navigation_bar_height_landscape_title">Altura de la barra de navegación en modo horizontal</string>
+    <string name="navigation_bar_height_landscape_summary">Altura de la barra de navegación estando en modo horizontal.</string>
+    <string name="navigation_bar_width_title">Anchura de la barra de navegación</string>
+    <string name="navigation_bar_width_summary">Altura de la barra de navegación cuando está posicionada en un lado</string>
+    <string name="navbar_can_move">Mostrar horizontal</string>
+    <string name="navbar_can_move_summary">En modo horizontal, mostrar la barra de navegación abajo</string>
+    <string name="navbar_style_dimen_title">Dimensiones</string>
+    <string name="navbar_style_dimen_summary">CAmbiar la altura de la barra de navegación</string>
+    <string name="navbar_button_title">Botones</string>
+    <string name="navbar_button_summary">Configurar los botones a mostrar en la bara de navegación</string>
+    <string name="navbar_button_title">Botones</string>
+    <string name="navbar_cat">Barra de navegación</string>
+    <string name="navbar_dimensions_reset_message">¿Restablecer todas las dimensiones a los valores predeterminados?</string>
+    <string name="navbar_button_style_reset_message">¿Restablecer todos los valores de estilo a sus predeterminados?</string>
 
-    <!-- Navigation bar button style -->
-    <string name="nav_bar_button_style">Button style</string>
-    <string name="nav_bar_button_style_summary">Change navigation bar button style</string>
-    <string name="button_transparency_title">Button transparency</string>
-    <string name="navigation_bar_icon_tint_title">Button color</string>
-    <string name="nav_button_color_mode_title">Color mode</string>
-    <string name="nav_button_color_mode_dialog_title">Colorize</string>
-    <string name="nav_button_color_mode_summary">Change the navigation bar button color mode</string>
-    <string name="navigation_bar_glow_tint_title">Button glow color</string>
-    
+    <!-- Navigation bar button style -->   
+    <string name="nav_bar_button_style">Estilo de botón</string>
+    <string name="nav_bar_button_style_summary">Cambia el estilo de los botones de la barra de navegación</string>
+    <string name="button_transparency_title">Transparencia de los botones</string>
+    <string name="navigation_bar_icon_tint_title">Color de los botones</string>
+    <string name="nav_button_color_mode_title">Modo de color</string>
+    <string name="nav_button_color_mode_dialog_title">Colorear</string>
+    <string name="nav_button_color_mode_summary">Cambiar el modo de color de los botones de la barra de navegación</string>
+    <string name="navigation_bar_glow_tint_title">Color del resplandor del botón</string>
+   
     <!-- Hardware keys -->
     <string name="enable_hw_keys_title">Enable Hardware Buttons</string>
     <string name="button_keys_title">Hardware Buttons</string>
@@ -178,6 +180,7 @@
     <string name="enable_clock_weekday_summary">Día de la semana abreviado antes de la hora</string>
     <string name="right_clock">Reloj en la derecha</string>
     <string name="center_clock">Reloj en el centro</string>
+    <string name="left_clock">Reloj en la izquierda</string>
     <string name="dont_show">No mostrar</string>
     <string name="clock_date_display">Fecha</string>
     <string name="clock_date_display_summary">Mostrar fecha personalizada delante del reloj</string>
