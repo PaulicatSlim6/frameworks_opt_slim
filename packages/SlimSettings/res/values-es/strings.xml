@@ -62,8 +62,7 @@
 
     <!-- Navigation bar -->
     <string name="navigation_bar">Barra de navegación</string>
-    <string name="navigation_bar">Navigation bar</string>
-    <string name="navigation_settings_category">Navigation</string>
+    <string name="navigation_settings_category">Navegación</string>
     <string name="navigation_bar_size_42_dp_default">42 dp (predeterminado)</string>
     <string name="navigation_bar_size_36_dp">36 dp</string>
     <string name="navigation_bar_size_30_dp">30 dp</string>
@@ -96,7 +95,6 @@
     <string name="navbar_can_move_summary">En modo horizontal, mostrar la barra de navegación abajo</string>
     <string name="navbar_style_dimen_title">Dimensiones</string>
     <string name="navbar_style_dimen_summary">CAmbiar la altura de la barra de navegación</string>
-    <string name="navbar_button_title">Botones</string>
     <string name="navbar_button_summary">Configurar los botones a mostrar en la bara de navegación</string>
     <string name="navbar_button_title">Botones</string>
     <string name="navbar_cat">Barra de navegación</string>
