@@ -122,7 +122,7 @@
     <string name="keys_back_press_title">Botón atrás</string>
     <string name="keys_back_long_press_title">Botón atrás (pulsación larga)</string>
     <string name="keys_back_double_tap_title">Botón atrás (doble pulsación)</string>
-    <string name="keys_home_press_title">Home key</string>
+    <string name="keys_home_press_title">Botón inicio</string>
     <string name="keys_home_long_press_title">Botón inicio (pulsación larga)</string>
     <string name="keys_home_double_tap_title">Botón inicio (doble pulsación)</string>
     <string name="keys_menu_press_title">Botón menú</string>
